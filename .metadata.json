@@ -1,5 +1,9 @@
 [
   {
+    "package": "DRDID",
+    "oncran": true
+  },
+  {
     "package": "pstest",
     "oncran": true
   }
