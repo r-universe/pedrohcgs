@@ -13,3 +13,8 @@
 	url = https://github.com/pedrohcgs/pstest
 	shallow = true
 	registered = true
+[submodule "staggered"]
+	path = staggered
+	url = https://github.com/cran/staggered
+	shallow = true
+	registered = true
