@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DRDID"]
 	path = DRDID
 	url = https://github.com/pedrohcgs/drdid
-	shallow = true
-	registered = true
 [submodule "pstest"]
 	path = pstest
 	url = https://github.com/pedrohcgs/pstest
-	shallow = true
-	registered = true
 [submodule "staggered"]
 	path = staggered
 	url = https://github.com/cran/staggered
-	shallow = true
-	registered = true
